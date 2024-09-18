@@ -11,3 +11,8 @@
 #git remote -v = to list all of your configured remotes.
 #git branch = shows branch name
 # git branch -N <branch_name> = create new branch with given name
+'''
+work flow of git hub
+
+Githubrepo = clone = changes = add = commit = push
+'''
